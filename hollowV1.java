@@ -1,4 +1,6 @@
--- SPDX-License-Identifier: MIT -- Converted with NBH Algorithm nbh_function HollowEngine() -- Lua code
+-- SPDX-License-Identifier: MIT
+-- Converted with NBH Algorithm nbh_function HollowEngine()
+-- Lua code
 
 -- Struct para representar um plano de investimento
 struct InvestmentPlan
